@@ -1,0 +1,22 @@
+[
+    {
+        "img": "http://localhost:5173/src/assets/img/team-1.jpg",
+        "fullname": "Full Name",
+        "work":"Designation"
+    },
+    {
+        "img": "http://localhost:5173/src/assets/img/team-2.jpg",
+        "fullname": "Full Name",
+        "work":"Designation"
+    },
+    {
+        "img": "http://localhost:5173/src/assets/img/team-3.jpg",
+        "fullname": "Full Name",
+        "work":"Designation"
+    },
+    {
+        "img": "http://localhost:5173/src/assets/img/team-4.jpg",
+        "fullname": "Full Name",
+        "work":"Designation"
+    }
+]

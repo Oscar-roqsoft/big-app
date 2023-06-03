@@ -1,0 +1,22 @@
+[
+    {
+        "article": "Years Experience",
+        "number": 50,
+        "icon": "fa fa-certificate"
+    },
+    {
+        "article": "Skill Professionals",
+        "number": 175,
+        "icon": "fa fa-users"
+    },
+    {
+        "article": "Total Products",
+        "number": 135,
+        "icon": "fa fa-bread-slice"
+    },
+    {
+        "article": "Order Everyday",
+        "number": 34,
+        "icon": "fa fa-cart-plus"
+    }
+]
